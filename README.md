@@ -1,6 +1,7 @@
 # MERN example -frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) \
+and based upon https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/ .
 
 ## Available Scripts
 
